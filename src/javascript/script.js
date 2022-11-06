@@ -3,7 +3,7 @@ function createGame(player1, hour, player2) {
     <li>
     <img src="nlw_copa/src/bandeiras/icon=${player1}.svg" alt="${player1}">
         <strong>${hour}</strong>
-    <img src="./src/bandeiras/icon=${player2}.svg" alt="${player2}"> 
+    <img src="nlw_copa/src/bandeiras/icon=${player2}.svg" alt="${player2}"> 
 </li>
 `
 }
